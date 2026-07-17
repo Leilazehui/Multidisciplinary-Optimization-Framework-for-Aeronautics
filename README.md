@@ -11,7 +11,9 @@ According to the competition rules of the AIAA DBF 2026, the flight objective of
 - Ground Mission (GM) is a timed demonstration of the aircraft assembly, payload installation, banner mechanism installation, and flight control checks. 
 
 ## Purpose of MDO
-- A parametric **Multidisciplinary Optimization (MDO)** framework was developed in MATLAB using a deterministic grid-search approach to explore the design space systematically to obtain the predicted performance of the preliminary design that maximizes mission score while satisfying aerodynamic and performance constraints. 
+- Every year, DBF student teams are required to design an aircraft to achieve 3 milstones: Design proposal by the end of every October, Design report by the end of the next February, and fly-off at US competition flight sites. Previous HKU DBF teams adapted iterative end-to-end design, fabricationan and testing approach to find out the optimized aircraft design and predicted competition score. However, under tight time availabilty and limited financial support and man power, the team is difficult to try as many types of design as they could.
+
+- A parametric **Multidisciplinary Optimization (MDO)** framework was developed in MATLAB using a deterministic grid-search approach to explore the design space systematically to obtain the predicted performance of the preliminary design that maximizes mission score while satisfying aerodynamic and performance constraints. With this model, teams can simulate hundreds to thousands cases of different design configuration of the aircraft, and select the optimized design for the aircraft configuration in one go. Therefore, the time and cost required for the iterative building and testing stage will be greatly reduced, enhancing team's working efficiency.
 
 - Several assumptions for the battery selection and empty weight of the aircraft under different conditions were made to provide a realistic scenario in the simulation, with an assumed velocity range based on previous aircraft performances. Then the flight path was estimated by examining the flight motion for three stages: take-off/climb, cruising, landing. 
 
