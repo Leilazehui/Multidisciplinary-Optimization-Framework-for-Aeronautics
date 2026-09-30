@@ -1,4 +1,9 @@
 # Result of the MDO
+14 variables are simulated and compared in a descending order, ranking from the highest-score configuration design to least-score configuration design. The number of cases compared depends on user input. Example as shown below:
+<p align="center">
+  <img src="https://github.com/Leilazehui/Multidisciplinary-Optimization-Framework-for-Aeronautics/blob/main/Example%20of%20aircraft%20configuration%20case.png" width=45%  />
+<p/>
+  
 ## Abbreviations
 #### The “Bulk Group”
 - Green colour corresponded to score cases where number of passengers more than 33 and number of cargoes more than 11 were chosen to be the amount of payload carried in Mission 2.
@@ -7,7 +12,6 @@
 #### "Other Top cases"
 - The rest of the combinations of payloads carried in Mission 2.
 
-14 variables are simulated and compared in a descending order, ranking from the highest-score configuration design to least-score configuration design. The number of cases compared depends on user input. Example as shown below:
 
 ## Graph Illustration of MDO
 The comparison was taken as the ratio of the total score and the aircraft mass, since the size of the aircraft determines the time taken for manufacturing, and the battery and motor selection, and banner mechanism design. 
@@ -17,3 +21,5 @@ Since bulk groups were the highest score cases, the first prototype adopted 48 P
 <p align="center">
   <img src="https://github.com/Leilazehui/Multidisciplinary-Optimization-Framework-for-AIAA-DBF-2026-Mission-Scoring/blob/main/top100case.png" width=45%  />
 <p/>
+
+
