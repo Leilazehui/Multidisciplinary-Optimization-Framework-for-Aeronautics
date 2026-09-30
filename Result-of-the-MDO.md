@@ -4,7 +4,7 @@ The 13 variables are:
 | total score | wingspan | no. of cargo pucks | no. of laps in mission 2 | no. of laps in mission 3 | battery capacity choice | banner length |
 | ------------|----------|--------------------|--------------------------|--------------------------|-------------------------|---------------|
 | ground mission time | mission 2 aircraft mass | mission 3 aircraft mass | wingspan aspect ratio | banner aspect ratio |
-| --------------------|-------------------------|-------------------------|-----------------------|---------------------|
+
 
 Example as shown below:
 <p align="center">
