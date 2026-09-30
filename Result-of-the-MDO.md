@@ -1,9 +1,9 @@
 # Result of the MDO
 13 variables are simulated and compared in a descending order, ranking from the highest-score configuration design to least-score configuration design. The number of cases compared depends on user input. 
 The 13 variables are: 
-| total score | wingspan | no. of cargo pucks | no. of laps in mission 2 | no. of laps in mission 3 | battery capacity choice | banner length |
-| ------------|----------|--------------------|--------------------------|--------------------------|-------------------------|---------------|
-| ground mission time | mission 2 aircraft mass | mission 3 aircraft mass | wingspan aspect ratio | banner aspect ratio |
+| total score | wingspan | no. of cargo pucks | no. of laps in mission 2 | no. of laps in mission 3 | battery capacity choice |
+| ------------|----------|--------------------|--------------------------|--------------------------|-------------------------|
+| ground mission time | mission 2 aircraft mass | mission 3 aircraft mass | wingspan aspect ratio | banner aspect ratio | banner length |
 
 
 Example as shown below:
