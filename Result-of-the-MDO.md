@@ -1,7 +1,7 @@
 # Result of the MDO
 14 variables are simulated and compared in a descending order, ranking from the highest-score configuration design to least-score configuration design. The number of cases compared depends on user input. Example as shown below:
 <p align="center">
-  <img src="https://github.com/Leilazehui/Multidisciplinary-Optimization-Framework-for-Aeronautics/blob/main/Example%20of%20aircraft%20configuration%20case.png" width=45%  />
+  <img src="https://github.com/Leilazehui/Multidisciplinary-Optimization-Framework-for-Aeronautics/blob/main/Example%20of%20aircraft%20configuration%20case.png" width=30%  />
 <p/>
   
 ## Abbreviations
