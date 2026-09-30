@@ -1,5 +1,5 @@
 # README
-## Background of AIAA DBF 2026
+## Background of Mission study
 According to the competition rules of the AIAA DBF 2026, the flight objective of this year was to design, build, and test a banner towing bush plane, conduct charter flights to pay for the airplane in Mission 2, and start a banner towing business which was simulated in Mission 3. 
 
 - Mission 1 (M1) is a delivery flight without a payload, 3 laps in a 5-minute time window.
@@ -19,7 +19,7 @@ According to the competition rules of the AIAA DBF 2026, the flight objective of
 
 - The highest possible score for each individual mission was estimated and was compared with the optimized score case where all missions’ requirements were considered to determine the highest score case for the GRIFFIN. For Gound Mission (GM), the time for the fastest possible case was estimated as 25 seconds, based on experience from the team.
 
-## AIAA 2026 MDO Flowchart
+## MDO architecture for aircraft design optimization
 <p align="center">
   <img src="https://github.com/Leilazehui/Multidisciplinary-Optimization-Framework-for-AIAA-DBF-2026-Mission-Scoring/blob/main/MDO_Flowchart.png"  with=50%  />
   <p/>
