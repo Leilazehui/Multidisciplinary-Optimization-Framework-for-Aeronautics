@@ -7,6 +7,8 @@
 #### "Other Top cases"
 - The rest of the combinations of payloads carried in Mission 2.
 
+14 variables are simulated and compared in a descending order, ranking from the highest-score configuration design to least-score configuration design. The number of cases compared depends on user input. Example as shown below:
+
 ## Graph Illustration of MDO
 The comparison was taken as the ratio of the total score and the aircraft mass, since the size of the aircraft determines the time taken for manufacturing, and the battery and motor selection, and banner mechanism design. 
 
